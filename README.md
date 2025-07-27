@@ -10,6 +10,23 @@ This application captures video from your webcam and uses advanced hand tracking
 - Enable dragging and manipulation of virtual objects (circle, triangle, rectangle) using index finger positioning
 - Provide visual feedback with hand landmark visualization
 
+
+
+
+## Demonstration
+
+
+![Hand Landmarks ](images/hand-landmarks.png)
+
+
+# Screenshots
+![Hand Detection ](images/Hand_Detection.jpg)
+![Hands ](images/Hands.jpeg)
+![Object Manipulation](images/Object_Manipulation.jpg)
+![Five Image ](images/Five_Image.jpeg)
+
+
+
 ## 🚀 Features
 
 - **Real-time Hand Detection**: Accurate hand landmark detection using MediaPipe

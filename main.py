@@ -101,7 +101,8 @@ with mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.5) a
         cv2.rectangle(image, rectangle_top_left,
                       (rectangle_top_left[0] + rectangle_width, rectangle_top_left[1] + rectangle_height),
                       (139, 0, 0), -1)  # Dark blue rectangle
-
+        
+      
         # Display the frame
         cv2.imshow('Hands Tracking', image)
 
