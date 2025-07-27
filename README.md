@@ -16,14 +16,14 @@ This application captures video from your webcam and uses advanced hand tracking
 ## Demonstration
 
 
-![Hand Landmarks ](images/hand-landmarks.png)
+![Hand Landmarks ](Images/hand-landmarks.png)
 
 
 # Screenshots
-![Hand Detection ](images/Hand_Detection.jpg)
-![Hands ](images/Hands.jpeg)
+![Hand Detection ](Images/Hand_Detection.jpg)
+![Hands ](Images/Hands.jpeg)
 ![Object Manipulation](images/Object_Manipulation.jpg)
-![Five Image ](images/Five_Image.jpeg)
+![Five Image ](Images/Five_Image.jpeg)
 
 
 
